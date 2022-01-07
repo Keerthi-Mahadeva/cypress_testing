@@ -1,0 +1,5 @@
+# Install Cypress using npm
+npm install cypress
+
+# Run Cypress through npx
+# npx cypress open
