@@ -1,0 +1,10 @@
+A Test Scenario (Test Condition / Test Possibility) is any functionality that can be tested.
+
+Creating a Test Scenario:
+* Refer any one of these available documents
+    - Business Requirement Specification (BRS)
+    - Software Requirement Specification (SRS)
+    - Functional Requirement Specification (FRS)
+* Isolate each requirement and identify all possible normal and abusive user actions that can be performed
+* Enumerate test scenarios that cover every possible featrue, user and business flow
+* Create a Traceability Matrix to ensure that every requirement is mapped to a test scenario
